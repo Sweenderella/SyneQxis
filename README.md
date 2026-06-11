@@ -274,6 +274,8 @@ q1k/
 - Gabriel Blanco Gomez (<gabriel.blancogomez@mail.mcgill.ca>)
 - Christian O'Reilly (<christian.oreilly@sc.edu>)
 
+Q1kpipeline extension, Integration, Validation and release
+- Sweety Ramnani (sramnani@email.sc.edu)
 ## License
 
 MIT
